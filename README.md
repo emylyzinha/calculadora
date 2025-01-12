@@ -1,6 +1,6 @@
 # Calculadora Simples  
 
-Este projeto foi desenvolvido com o objetivo de praticar e consolidar conhecimentos em **HTML**, **CSS** e **JavaScript**, criando uma aplicação funcional e interativa.  
+Este projeto foi desenvolvido com o objetivo de praticar e consolidar conhecimentos em **HTML**, **CSS**, **Bootstrap** e **JavaScript**, criando uma aplicação funcional e interativa.  
 
 ### Funcionalidades  
 - **Operações Básicas:**  
